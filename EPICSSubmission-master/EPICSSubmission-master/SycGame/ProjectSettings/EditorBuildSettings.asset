@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 03127b4aaa59ea840b6a78f9d3913025
+  - enabled: 1
+    path: Assets/CrossRoads.unity
+    guid: f9f81cd5bbb514d4087e6881b762e7a4
+  - enabled: 1
+    path: Assets/DesertIntro.unity
+    guid: c2637e39c432e1740a32f6582a7a47a7
+  - enabled: 1
+    path: Assets/DesertUp.unity
+    guid: ab68285251ad26649bdcc9aca81ec545
+  - enabled: 1
+    path: Assets/DesertVilliage1.unity
+    guid: 9d3c47c6c0a036e4cba3e080ac878e3c
+  - enabled: 1
+    path: Assets/DesertRiver.unity
+    guid: 660a860c9ae2f1d4c997ddba071f1534
+  - enabled: 1
+    path: Assets/DesertExtension.unity
+    guid: af47c6fed4aaa764f9652e2fc4f3aa5e
+  - enabled: 1
+    path: Assets/DesertVilliage2.unity
+    guid: ee0cefd348630e94195bd10be51319c5
+  - enabled: 1
+    path: Assets/TansDesFor.unity
+    guid: 912215d0fb7eb984db38e5ced2238344
+  - enabled: 1
+    path: Assets/TansDesBeach.unity
+    guid: 400e85924272e2245a36cc65440092f3
+  - enabled: 1
+    path: Assets/ForestUp.unity
+    guid: 0ecbd1b715e14b4448650cf85b9bb44b
+  - enabled: 1
+    path: Assets/ForestVillage1.unity
+    guid: 5b21508052df2ff459e3b73a498e13b3
+  - enabled: 1
+    path: Assets/ForestMain.unity
+    guid: d7695d969717e7241866ae611cfe4e09
+  - enabled: 1
+    path: Assets/ForestVilliage2.unity
+    guid: 683ad82ec3aa441458b86780f5cb5c64
+  - enabled: 1
+    path: Assets/RockPath.unity
+    guid: ea1f79ad8b333d94593a581fbf71ffad
+  - enabled: 1
+    path: Assets/TansForFire.unity
+    guid: ae589b4c25d9b8f4eb20fae308719eba
+  - enabled: 1
+    path: Assets/FirePath3.unity
+    guid: e9b1a7802fcdee94fbc145474367ee24
+  - enabled: 1
+    path: Assets/FireVilliage.unity
+    guid: d90b00f16f25e35478b4163e0dcc1477
+  - enabled: 1
+    path: Assets/FireMain.unity
+    guid: 994caa33f60ad4f4794fec2c54c3924f
+  - enabled: 1
+    path: Assets/FirePath2.unity
+    guid: 9aaa315e1eaecd549aed6a08bc37fdd0
+  - enabled: 1
+    path: Assets/FirePath1.unity
+    guid: 2880afd1c15703143b47cc43e1d1dc3a
+  - enabled: 1
+    path: Assets/TansFireBeach.unity
+    guid: e06a2f0458568ed4899f91df829e15f8
+  - enabled: 1
+    path: Assets/BeachVilliage.unity
+    guid: d95c1ca864289f84f9ef74036be1d0c8
+  - enabled: 1
+    path: Assets/WaterSwamp.unity
+    guid: 80d93dc4222e7a34d99772dc3bce8b4a
+  - enabled: 1
+    path: Assets/BeachMain.unity
+    guid: ed9a45802fcb4d548a26f6682aa03046
+  m_configObjects: {}
