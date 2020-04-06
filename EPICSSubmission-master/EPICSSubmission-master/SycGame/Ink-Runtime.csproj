@@ -95,10 +95,10 @@
     <Compile Include="Assets\Plugins\Ink\InkRuntime\VariablesState.cs" />
     <Compile Include="Assets\Plugins\Ink\InkRuntime\Void.cs" />
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/ShoeSoles2-master/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Paul/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/ShoeSoles2-master/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Paul/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -290,13 +290,13 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/ShoeSoles2-master/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/Paul/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/ShoeSoles2-master/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/Paul/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/ShoeSoles2-master/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Paul/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.6f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
