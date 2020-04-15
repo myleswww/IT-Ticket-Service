@@ -45,7 +45,7 @@ public class PlayerController : MonoBehaviour
         renderer.sortingOrder = -(int)(renderer.transform.position.y * 32);
 
         //limit walk
-        transform.position = new Vector3(Mathf.Clamp(transform.position.x, minX, maxX), Mathf.Clamp(transform.position.y, minY, maxY), transform.position.z);
+        //transform.position = new Vector3(Mathf.Clamp(transform.position.x, minX, maxX), Mathf.Clamp(transform.position.y, minY, maxY), transform.position.z);
 
         //dabing animation VERY IMPORTANT NEVER DELETE
         playerAnimator.SetBool("Dab", Input.GetButton("Dab"));
