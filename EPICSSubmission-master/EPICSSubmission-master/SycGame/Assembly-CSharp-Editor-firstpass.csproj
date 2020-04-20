@@ -81,6 +81,9 @@
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Myles/Documents/GitHub/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Cinemachine">
+ <HintPath>C:/Users/Myles/Documents/GitHub/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.VSCode.Editor">
  <HintPath>C:/Users/Myles/Documents/GitHub/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
@@ -108,6 +111,9 @@
  <Reference Include="UnityEditor.SpatialTracking">
  <HintPath>C:/Users/Myles/Documents/GitHub/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
  </Reference>
+ <Reference Include="com.unity.cinemachine.editor">
+ <HintPath>C:/Users/Myles/Documents/GitHub/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.SpatialTracking">
  <HintPath>C:/Users/Myles/Documents/GitHub/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
@@ -122,12 +128,6 @@
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>C:/Users/Myles/Documents/GitHub/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
- <Reference Include="Cinemachine">
- <HintPath>C:/Users/Myles/Documents/GitHub/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
- </Reference>
- <Reference Include="com.unity.cinemachine.editor">
- <HintPath>C:/Users/Myles/Documents/GitHub/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

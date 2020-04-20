@@ -16,7 +16,8 @@ public class PlayerRenderSorter : MonoBehaviour
     }
     private void LateUpdate()
     {
-        myRenderer.sortingOrder = (int)(sortingOrderBase - transform.position.y - offset);
+        myRenderer.sortingOrder = sortingOrderBase;
+        
     }
 
 }
