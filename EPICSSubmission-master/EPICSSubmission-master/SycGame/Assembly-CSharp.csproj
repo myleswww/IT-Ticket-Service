@@ -55,7 +55,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Inventory.cs" />
      <Compile Include="Assets\LevelControl.cs" />
+     <Compile Include="Assets\Pickup.cs" />
      <Compile Include="Assets\PlayerData.cs" />
      <Compile Include="Assets\ProgressBar\Scene\Demo.cs" />
      <Compile Include="Assets\ProgressBar\Script\ProgressBar.cs" />
@@ -80,6 +82,8 @@
      <Compile Include="Assets\Scripts\clickSound.cs" />
      <Compile Include="Assets\Scripts\playerTraits.cs" />
      <Compile Include="Assets\Scripts\talk.cs" />
+     <Compile Include="Assets\Slot.cs" />
+     <Compile Include="Assets\Spawn.cs" />
      <Compile Include="Assets\global.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Myles/Documents/GitHub/ShoeSoles2/EPICSSubmission-master/EPICSSubmission-master/SycGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
